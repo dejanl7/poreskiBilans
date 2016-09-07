@@ -3,5 +3,13 @@ poreskiBilans - is simple web aplication for printing PDF document "PB-1" for ta
 Application is based on FPDF and TFPDF library.<br>
 If you want to use this application in yor server, please take care about next items:
 <ul>
-  <li>Paths - /fpdf/tfpdf/font/unifont/dejavusans-extralight.mtx.php,   /fpdf/tfpdf/font/unifont/dejavusanscondensed.mtx  and /fpdf/tfpdf/font/unifont/dejavusanscondensed-bold.mtx.php</li>
+  <li>Database File - "inc/classes/database.php" where you need to set your connection parameters,</li>
+  <li>Paths - 
+    <ul>
+      <li>/fpdf/tfpdf/font/unifont/dejavusans-extralight.mtx.php,</li>
+      <li>/fpdf/tfpdf/font/unifont/dejavusanscondensed.mtx and</li>   
+      <li>/fpdf/tfpdf/font/unifont/dejavusanscondensed-bold.mtx.php</li>
+    </ul>
+  </li>
+  <li>jQuery file "pb_functions" - define your http path</li>
 </ul>
