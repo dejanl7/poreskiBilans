@@ -3,7 +3,7 @@ poreskiBilans - is simple web aplication for printing PDF document template "PB-
 If you want to use this application in your server, please take care about next items:
 <ul>
   <li>Database File - "inc/classes/database.php", where you need to set up your connection parameters,</li>
-  <li>Paths - checkout next files if you have errors:
+  <li>Paths - checkout unifont files if you have errors:
     <ul>
       <li>/fpdf/tfpdf/font/unifont/dejavusans-extralight.mtx.php,</li>
       <li>/fpdf/tfpdf/font/unifont/dejavusanscondensed.mtx and</li>   
@@ -12,3 +12,6 @@ If you want to use this application in your server, please take care about next 
   </li>
   <li>jQuery file "pb_functions" - define your path for each of the functions</li>
 </ul>
+<br>
+<br>
+<h3>Srpski</h3>
