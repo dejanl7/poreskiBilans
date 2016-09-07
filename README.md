@@ -15,4 +15,4 @@ If you want to use this application in your server, please take care about next 
 <br>
 <br>
 <h3>Srpski</h3>
-Trenutno, aplikacija pruža mogućnost štampanja PDF dokumenta poslednje verzije obrasca za utvrđivanje poreske obaveze pravnih lica "PB1". U ternutku kada XML struktura podataka bude javno dostupna od strane Poreske uprave Srbije, aplikacija će biti ažurirana.  
+Trenutno, aplikacija pruža mogućnost štampanja PDF dokumenta poslednje verzije obrasca za utvrđivanje poreske obaveze pravnih lica "PB-1". U ternutku kada XML struktura podataka bude javno dostupna od strane Poreske uprave Srbije, aplikacija će biti ažurirana.  
