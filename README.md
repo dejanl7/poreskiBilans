@@ -10,5 +10,5 @@ If you want to use this application in your server, please take care about next 
       <li>/fpdf/tfpdf/font/unifont/dejavusanscondensed-bold.mtx.php</li>
     </ul>
   </li>
-  <li>jQuery file "pb_functions" - define your in all functions</li>
+  <li>jQuery file "pb_functions" - define your path for each of the functions</li>
 </ul>
