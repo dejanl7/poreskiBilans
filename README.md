@@ -13,6 +13,8 @@ If you want to use this application in your server, please take care about next 
   <li>jQuery file "pb_functions" - define your path for each of the functions</li>
 </ul>
 <br>
+<h3>Database</h3>
+You can use file "poreski_bilans.sql"  to build database. File is into root folder of this application.
 <br>
 <h3>Srpski</h3>
 Trenutno, aplikacija pruža mogućnost štampanja PDF dokumenta poslednje verzije obrasca za utvrđivanje poreske obaveze pravnih lica "PB-1". U ternutku kada XML struktura podataka bude javno dostupna od strane Poreske uprave Srbije, aplikacija će biti ažurirana.  
