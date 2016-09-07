@@ -1,0 +1,136 @@
+﻿html, body {
+	width: 100%;
+	height: 100%;
+	background-color: #ecf0f1;
+}
+.introduction {
+	margin-top: 100px; 
+	border: 2px solid #7f8c8d;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	background-color: #ffffff;
+	padding-top: 17px;
+	padding-bottom: 17px;
+}
+input#company_submit_index {
+	font-weight: bold;
+	font-size: 12px;
+	background-color: #3498db;
+}
+#tabs {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+#tabs ul {
+	background-color: #3498db;
+}
+#tabs ul li {
+	background-color: #ffffff;
+	font-weight: bold;
+	color: #000000;
+}
+#page-1, #page-2, #page-3, #page-4 {
+	background-color: #ffffff;
+}
+.top-info {
+	margin-top: 10px; 
+	margin-bottom: 30px;
+}
+.top-info span {
+	width: 200px;
+	background-color: #3498db;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 17px;
+	padding: 7px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+}
+.form-group label {
+	font-size: 11px;
+	padding-left: 10px;
+}
+.company_type span {
+	display: block;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+.billans_headline {
+	margin-top: 50px;
+	margin-bottom: 70px;
+}
+.billans_headline span {
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.billans_headline span:nth-child(5) {
+	font-weight: bold;
+	font-size: .77em;
+}
+input.my-form-control {
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border: 1px solid #cccccc;	
+	font-size: 1em;
+	color: #c0392b;
+}
+input#year {
+	width: 50px;
+}
+table tr {
+	background-color: rgba(236, 240, 241, 0.1);
+}
+table tr td:nth-child(1){
+	width: 3%;
+}
+table tr td:nth-child(2){
+	width: 77%;
+}
+table tr td:nth-child(3){
+	width: 20%;
+}
+table tr:first-child td {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+table tr:first-child td:first-child {
+	font-size: 10px;
+} 
+table tr:nth-child(2) {
+	height: 1px;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.buttons {
+	padding-left: 10px;
+	position: relative;
+	top: 50px;
+	margin-bottom: 50px;
+}
+.buttons_last_page {
+	margin-bottom: 100px;
+}
+.buttons .btn {
+	font-weight: bold;
+}
+.signature_part {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+button.reset a {
+	text-decoration: none;
+	color: #ffffff;
+}
+button.reset a:hover {
+	color: #000000;
+}
